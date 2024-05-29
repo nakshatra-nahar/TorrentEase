@@ -1,3 +1,4 @@
 # TorrentEase
 A download manager
-/screenshots/downloading.png
+![Alt text](screenshots/downloading.png)
+
